@@ -100,6 +100,33 @@ The flood prediction pipeline is trained on multi-source geospatial and meteorol
 - **Profile / Auth** — Firebase-backed sign-in and user profile management
 
 ---
+## 📱 Screenshots
+
+### Authentication
+| Splash | Sign In | Sign Up |
+|---------|---------|---------|
+| ![](Screenshots/Splash%20screen.jpeg) | ![](Screenshots/Signin.jpeg) | ![](Screenshots/Signup.jpeg) |
+
+### Home & Navigation
+| Home | Plan Route | Route Results |
+|--------|--------|--------|
+| ![](Screenshots/Home%20Screen.jpeg) | ![](Screenshots/Plan%20safe%20route.jpeg) | ![](Screenshots/Color%20coded%20Routes.jpeg) |
+
+### Maps
+| Map View | Location Tracking |
+|----------|------------------|
+| ![](Screenshots/Map%20Screen.jpeg) | ![](Screenshots/Location%20on%20Map.jpeg) |
+
+### Monitoring & Analytics
+| Analytics | Alerts |
+|------------|--------|
+| ![](Screenshots/Analytics%20Screen.jpeg) | ![](Screenshots/Alerts%20Screen.jpeg) |
+
+### User Profile
+| Profile | Guest Mode |
+|----------|-----------|
+| ![](Screenshots/Profile.jpeg) | ![](Screenshots/GuestMode%20Screen.jpeg) |## 📱 Screenshots
+
 
 ## ⚙️ Getting Started
 
